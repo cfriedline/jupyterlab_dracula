@@ -5,7 +5,7 @@ A port of the [Dracula Theme](https://github.com/dracula/dracula-theme) for Jupy
 ## Install
 
 ```
-jupyter labextension install jupyterlab_dracula
+jupyter labextension install @karosc/jupyterlab_dracula
 
 ```
 ## Screenshot
