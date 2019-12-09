@@ -1,6 +1,6 @@
 {
-  "name": "jupyterlab_dracula",
-  "version": "0.20.1",
+  "name": "@karosc/jupyterlab_dracula",
+  "version": "2.0.0",
   "description": "Dracula Theme",
   "homepage": "https://github.com/karosc/jupyterlab_dracula",
   "bugs": {
